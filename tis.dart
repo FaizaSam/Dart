@@ -13,4 +13,5 @@ class Mobile {
 
 void main() {
   Mobile mob = new Mobile("iPhone 11 ", 2020);
+  print(mob);
 }
